@@ -12,20 +12,20 @@
 <details>
 <summary>Courses Completed</summary>
  
- 
- 1. Introduction to GitHub
- 2. Communicate doing Markdown
- 3. Introduction to HTML
- 4. GitHub Pages
- 5. Managing merge conflicts
- 6. Community Starter Kit
- 7. Uploading your project to GitHub
- 8. Getting started with GitHub apps
- 9. Migrating your repository to GitHub
- 10. Reviewing Pull Requests
- 11. Securing your workflows
- 12. Create a release based workflow
- 
+ <ol>
+ <li>Introduction to GitHub</li>
+ <li>Communicate doing Markdown</li>
+ <li>Introduction to HTML</li>
+ <li>GitHub Pages</li>
+ <li>Managing merge conflicts</li>
+ <li>Community Starter Kit</li>
+ <li>Uploading your project to GitHub</li>
+ <li>Getting started with GitHub apps</li>
+ <li>Migrating your repository to GitHub</li>
+ <li>Reviewing Pull Requests</li>
+ <li>Securing your workflows</li>
+ <li>Create a release based workflow</li>
+ </ol>
 
 </details>
 <details>
