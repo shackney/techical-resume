@@ -1,10 +1,23 @@
 <h2>GitHub</h2>
-___________________________________________
-<ul>
-  <li>detail</li>
-  <li>detail</li>
-  <li>detail</li>
-</ul>
+<details>
+<summary>Overview</summary>
+
++ summary point
++ summary point
+
+</details>
+<details>
+<summary>Courses Completed</summary>
+  
++ list of courses
+
+</details>
+<details>
+<summary>Proof of Completion</summary>
+
++ link to certificate
+
+</details>
 
 <h2>PowerBI</h2>
 <ul>
