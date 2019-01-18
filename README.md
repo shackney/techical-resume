@@ -32,9 +32,9 @@
 <details>
 <summary>Proof of Completion</summary>
 
-<img src="GitHub 1.png" alt="GitHub 1">
+<img src="https://user-images.githubusercontent.com/46510959/51403182-4789ff00-1b15-11e9-8801-0c15de69bf5e.PNG">
 
-<img src="GitHub 2.png" alt="GitHub 2">
+<img src="https://user-images.githubusercontent.com/46510959/51403283-a0f22e00-1b15-11e9-989f-8fb7b7cb564c.PNG">
 
 </details>
 
