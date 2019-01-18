@@ -1,4 +1,5 @@
-<h2>GitHub</h2>
+<h2>Technical Skills</h2>
+<h3>GitHub</h3>
 <details>
 <summary>Overview</summary>
  
@@ -31,36 +32,42 @@
 <details>
 <summary>Proof of Completion</summary>
 
-* link to certificate
+<img src="GitHub 1.png" alt="GitHub 1">
+
+<img src="GitHub 2.png" alt="GitHub 2">
 
 </details>
 
 <br> 
 
-<h2>PowerBI</h2>
+<h3>PowerBI</h3>
 <ul>
   <li>detail</li>
   <li>detail</li>
   <li>detail</li>
 </ul>
 
-<h2>PowerShell</h2>
+<h3>PowerShell</h3>
 <ul>
   <li>detail</li>
   <li>detail</li>
   <li>detail</li>
 </ul>
 
-<h2>Amazon Web Services (AWS)</h2>
+<h3>Amazon Web Services (AWS)</h3>
 <ul>
   <li>detail</li>
   <li>detail</li>
   <li>detail</li>
 </ul>
 
-<h2>Linux</h2>
+<h3>Linux</h3>
 <ul>
   <li>detail</li>
   <li>detail</li>
   <li>detail</li>
 </ul>
+
+<h2>Certifications</h2>
+
+<h3>CISA</h3>
