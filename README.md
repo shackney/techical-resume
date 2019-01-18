@@ -3,8 +3,8 @@
 <summary>Overview</summary>
 
 <div id="indent">
-+ summary point
-+ summary point
+* summary point
+* summary point
 </div>
 
 </details>
@@ -17,7 +17,7 @@
 <details>
 <summary>Proof of Completion</summary>
 
-+ link to certificate
+* link to certificate
 
 </details>
 
