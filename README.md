@@ -2,17 +2,17 @@
 <details>
 <summary>Overview</summary>
  
-<br>
-  * summary point
-  * summary point
+  <ul>
+   <li>summary point</li>
+   <li>summary point</li>
+  </ul>
 
 </details>
 <details>
 <summary>Courses Completed</summary>
  
-<br>
  1. Introduction to GitHub
-
+ 
 
 </details>
 <details>
