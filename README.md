@@ -2,10 +2,8 @@
 <details>
 <summary>Overview</summary>
 
-<div id="indent">
-* summary point
-* summary point
-</div>
+  * summary point
+  * summary point
 
 </details>
 <details>
