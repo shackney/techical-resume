@@ -3,3 +3,6 @@
 
 @import "{{ site.theme }}";
 list-style: none;
+div.indent {
+  text-indent: 10%;
+}
