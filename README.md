@@ -2,14 +2,16 @@
 <details>
 <summary>Overview</summary>
 
+<div id="indent">
 + summary point
 + summary point
+</div>
 
 </details>
 <details>
 <summary>Courses Completed</summary>
   
-+ list of courses
+
 
 </details>
 <details>
