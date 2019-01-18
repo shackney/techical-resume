@@ -1,14 +1,17 @@
 <h2>GitHub</h2>
 <details>
 <summary>Overview</summary>
-
+ 
+<br>
   * summary point
   * summary point
 
 </details>
 <details>
 <summary>Courses Completed</summary>
-  
+ 
+<br>
+ 1. Introduction to GitHub
 
 
 </details>
