@@ -5,8 +5,9 @@
  
  
  <ul>
-  <li>summary point</li>
-  <li>summary point</li>
+  <li>Gained familiarity with process of creating and contributing to an open source coding project</li>
+  <li>Practiced transferring previously learned coding skills to GitHub pages using Markdown</li>
+  <li>Gathered understanding of implementing and editing distinct versions of a project</li>
  </ul>
 
 </details>
