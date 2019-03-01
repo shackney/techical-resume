@@ -63,11 +63,38 @@
 </ul>
 
 <h3>Linux</h3>
-<ul>
-  <li>detail</li>
-  <li>detail</li>
-  <li>detail</li>
-</ul>
+<details>
+<summary>Overview</summary>
+ 
+ 
+ <ul>
+  <li>Gained understanding of Linux command line operation and syntax</li>
+  <li>Practiced navigating directories and file structures</li>
+  <li>Gathered familiarity with Linux security features and file permissions</li>
+ </ul>
+
+</details>
+<details>
+<summary>Courses Completed</summary>
+ 
+ <ol>
+ <li>The Linux Community and a Career in Open Source</li>
+ <li>Finding Your Way on a Linux System</li>
+ <li>The Power of the Command Line</li>
+ <li>The Linux Operating System</li>
+ <li>Security and File Permissions</li>
+
+ </ol>
+
+</details>
+<details>
+<summary>Proof of Completion</summary>
+
+<img src="https://user-images.githubusercontent.com/46510959/53643906-ecaaf380-3bfa-11e9-86d6-f6847686f238.PNG">
+
+</details>
+
+<br> 
 
 <h2>Certifications</h2>
 
