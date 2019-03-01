@@ -48,13 +48,6 @@
   <li>detail</li>
 </ul>
 
-<h3>PowerShell</h3>
-<ul>
-  <li>detail</li>
-  <li>detail</li>
-  <li>detail</li>
-</ul>
-
 <h3>Amazon Web Services (AWS)</h3>
 <ul>
   <li>detail</li>
