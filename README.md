@@ -42,11 +42,45 @@
 <br> 
 
 <h3>PowerBI</h3>
-<ul>
-  <li>detail</li>
-  <li>detail</li>
-  <li>detail</li>
-</ul>
+<details>
+<summary>Overview</summary>
+ 
+ 
+ <ul>
+  <li>Gained familiarity with process of creating and contributing to an open source coding project</li>
+  <li>Practiced transferring previously learned coding skills to GitHub pages using Markdown</li>
+  <li>Gathered understanding of implementing and editing distinct versions of a project</li>
+ </ul>
+
+</details>
+<details>
+<summary>Courses Completed</summary>
+ 
+ <ol>
+ <li>Introduction to GitHub</li>
+ <li>Communicate doing Markdown</li>
+ <li>Introduction to HTML</li>
+ <li>GitHub Pages</li>
+ <li>Managing merge conflicts</li>
+ <li>Community Starter Kit</li>
+ <li>Uploading your project to GitHub</li>
+ <li>Getting started with GitHub apps</li>
+ <li>Migrating your repository to GitHub</li>
+ <li>Reviewing Pull Requests</li>
+ <li>Securing your workflows</li>
+ <li>Create a release based workflow</li>
+ </ol>
+
+</details>
+<details>
+<summary>Proof of Completion</summary>
+
+<img src="https://user-images.githubusercontent.com/46510959/51403182-4789ff00-1b15-11e9-8801-0c15de69bf5e.PNG">
+
+<img src="https://user-images.githubusercontent.com/46510959/51403283-a0f22e00-1b15-11e9-989f-8fb7b7cb564c.PNG">
+
+</details>
+
 
 <h3>Amazon Web Services (AWS)</h3>
 <ul>
