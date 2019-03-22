@@ -47,8 +47,8 @@
  
  
  <ul>
-  <li>Gained familiarity with process of creating and contributing to an open source coding project</li>
-  <li>Practiced transferring previously learned coding skills to GitHub pages using Markdown</li>
+  <li>Practiced importing and manipulating datasets from a variety of sources with Power BI desktop</li>
+  <li>Understood various </li>
   <li>Gathered understanding of implementing and editing distinct versions of a project</li>
  </ul>
 
@@ -57,18 +57,14 @@
 <summary>Courses Completed</summary>
  
  <ol>
- <li>Introduction to GitHub</li>
- <li>Communicate doing Markdown</li>
- <li>Introduction to HTML</li>
- <li>GitHub Pages</li>
- <li>Managing merge conflicts</li>
- <li>Community Starter Kit</li>
- <li>Uploading your project to GitHub</li>
- <li>Getting started with GitHub apps</li>
- <li>Migrating your repository to GitHub</li>
- <li>Reviewing Pull Requests</li>
- <li>Securing your workflows</li>
- <li>Create a release based workflow</li>
+ <li>Power BI Desktop Data Transformations</li>
+ <li>Power BI Desktop Modelling</li>
+ <li>Power BI Desktop Visualization</li>
+ <li>Power BI Service</li>
+ <li>Working with Excel</li>
+ <li>Direct Connectivity</li>
+ <li>Developer API</li>
+ <li>Mobile App</li>
  </ol>
 
 </details>
