@@ -48,7 +48,7 @@
  
  <ul>
   <li>Practiced importing and manipulating datasets from a variety of sources with Power BI desktop</li>
-  <li>Understood various </li>
+  <li>Used and manipulated various data visualization displays</li>
   <li>Gathered understanding of implementing and editing distinct versions of a project</li>
  </ul>
 
