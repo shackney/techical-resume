@@ -75,9 +75,15 @@
 <details>
 <summary>Proof of Completion</summary>
 
-<img src="https://user-images.githubusercontent.com/46510959/51403182-4789ff00-1b15-11e9-8801-0c15de69bf5e.PNG">
-
-<img src="https://user-images.githubusercontent.com/46510959/51403283-a0f22e00-1b15-11e9-989f-8fb7b7cb564c.PNG">
+<img src="https://user-images.githubusercontent.com/46510959/54401971-14d53080-4698-11e9-919a-80c75934fb02.PNG">
+<img src="https://user-images.githubusercontent.com/46510959/54401983-261e3d00-4698-11e9-84e6-4669935b14d3.PNG">
+<img src="https://user-images.githubusercontent.com/46510959/54401987-29b1c400-4698-11e9-9166-9048369f926c.PNG">
+<img src="https://user-images.githubusercontent.com/46510959/54855588-f806b180-4cc4-11e9-8bd0-6dec527bf62e.PNG">
+<img src="https://user-images.githubusercontent.com/46510959/54855593-fc32cf00-4cc4-11e9-9553-de930780f5e4.PNG">
+<img src="https://user-images.githubusercontent.com/46510959/54855598-00f78300-4cc5-11e9-93ee-e1d797bab1eb.PNG">
+<img src="https://user-images.githubusercontent.com/46510959/54855734-8c711400-4cc5-11e9-9641-1ee0092bbeae.PNG">
+<img src="https://user-images.githubusercontent.com/46510959/54855739-8ed36e00-4cc5-11e9-8085-2df18be24696.PNG">
+<img src="https://user-images.githubusercontent.com/46510959/54855744-909d3180-4cc5-11e9-91d1-a3f52fd06ec1.PNG">
 
 </details>
 
