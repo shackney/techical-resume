@@ -172,5 +172,5 @@
 
 <h2>Graduate Project</h2>
 
-Please click the link below to access additional graduate work performed: <br>
+Please click on the link below to access additional graduate work performed: <br>
 <a href="https://shackney.github.io/technical-resume/graduateproject.html" title="Grad Project">Grad Project</a>
