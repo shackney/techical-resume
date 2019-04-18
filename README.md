@@ -173,3 +173,4 @@
 <h2>Graduate Project</h2>
 
 https://github.com/shackney/technical-resume/master/graduateproject.html
+<a href="https://shackney.github.io/technical-resume/graduateproject.html" title="Grad Project">Grad Project</a>
