@@ -118,7 +118,7 @@
 <details>
 <summary>Proof of Completion</summary>
 
-<img src="https://user-images.githubusercontent.com/46510959/53643906-ecaaf380-3bfa-11e9-86d6-f6847686f238.PNG">
+<img src="https://user-images.githubusercontent.com/46510959/56382255-9c084d80-61dc-11e9-86ad-cfc7e68ee9f1.PNG">
 
 </details>
 
