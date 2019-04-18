@@ -85,11 +85,44 @@
 <br>
 
 <h3>Amazon Web Services (AWS)</h3>
-<ul>
-  <li>detail</li>
-  <li>detail</li>
-  <li>detail</li>
-</ul>
+<details>
+<summary>Overview</summary>
+ 
+ 
+ <ul>
+  <li>Learned deeper insight into the functionalities offered by cloud computing</li>
+  <li>Gained understanding of the purposes of each individual AWS resource</li>
+  <li>Practiced working hands on with the various services offered by AWS</li>
+ </ul>
+
+</details>
+<details>
+<summary>Courses Completed</summary>
+ 
+ <ol>
+ <li>Course Introduction</li>
+ <li>AWS Essentials You Need to Know</li>
+ <li>Managing AWS Access with Users, Groups, and Roles</li>
+ <li>Networking Services and Connectivity</li>
+ <li>Compute Services</li>
+ <li>Storage Services</li>
+ <li>Database Services</li>
+ <li>Monitoring, Alerts, and Notifications</li>
+ <li>Load Balancing, Elasticity, and Scalability</li>
+ <li>Serverless Compute</li>
+ <li>Course Summary and Conclusion</li>
+
+ </ol>
+
+</details>
+<details>
+<summary>Proof of Completion</summary>
+
+<img src="https://user-images.githubusercontent.com/46510959/53643906-ecaaf380-3bfa-11e9-86d6-f6847686f238.PNG">
+
+</details>
+
+<br> 
 
 <h3>Linux</h3>
 <details>
