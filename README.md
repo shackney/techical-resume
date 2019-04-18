@@ -172,4 +172,4 @@
 
 <h2>Graduate Project</h2>
 
-https://github.com/shackney/technical-resume/edit/master/graduateproject
+https://github.com/shackney/technical-resume/master/graduateproject.html
