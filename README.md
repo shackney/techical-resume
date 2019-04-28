@@ -180,4 +180,4 @@ www.youtube.com
 <h2>Graduate Project</h2>
 
 Please click on the link below to access additional graduate work performed: <br>
-<a href="https://shackney.github.io/gradproject/README.md">Grad Project</a>
+<a href="https://shackney.github.io/gradproject/">Grad Project</a>
