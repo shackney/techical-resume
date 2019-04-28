@@ -165,15 +165,6 @@ www.youtube.com
 
 <br> 
 
-<h2>Certifications</h2>
-
-<h3>CISA</h3>
-<details>
-<summary>Study Plan</summary>
-
-<img src="https://user-images.githubusercontent.com/46510959/53643906-ecaaf380-3bfa-11e9-86d6-f6847686f238.PNG">
-
-</details>
 
 <br> 
 
