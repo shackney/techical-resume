@@ -82,6 +82,13 @@
 <img src="https://user-images.githubusercontent.com/46510959/54855744-909d3180-4cc5-11e9-91d1-a3f52fd06ec1.PNG">
 
 </details>
+<details>
+<summary>Dashboard Project</summary>
+ 
+<img src="https://user-images.githubusercontent.com/46510959/56867296-286afb00-69a9-11e9-9e47-8e4109acce55.png"> 
+<a href="www.youtube.com" title="Video Walkthrough">Video Walkthrough</a>
+ 
+</details>
 <br>
 
 <h3>Amazon Web Services (AWS)</h3>
