@@ -86,7 +86,7 @@
 <summary>Dashboard Project</summary>
  
 <img src="https://user-images.githubusercontent.com/46510959/56867296-286afb00-69a9-11e9-9e47-8e4109acce55.png"> 
-<a href="www.youtube.com" title="Video Walkthrough">Video Walkthrough</a>
+www.youtube.com
  
 </details>
 <br>
@@ -180,4 +180,4 @@
 <h2>Graduate Project</h2>
 
 Please click on the link below to access additional graduate work performed: <br>
-<a href="https://shackney.github.io/technical-resume/graduateproject.html" title="Grad Project">Grad Project</a>
+<a href="https://shackney.github.io/gradproject/README.md">Grad Project</a>
