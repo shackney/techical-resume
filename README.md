@@ -86,8 +86,8 @@
 <summary>Dashboard Project</summary>
  
 <img src="https://user-images.githubusercontent.com/46510959/56867296-286afb00-69a9-11e9-9e47-8e4109acce55.png"> 
-www.youtube.com
- 
+<a href="https://youtu.be/ardUzpfVL1I">Dashboard Walkthrough</a>
+ https://youtu.be/ardUzpfVL1I
 </details>
 <br>
 
